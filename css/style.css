@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+h1 {
+    background-color: orange;
+    font-size: 20px
+}
+
+h2 {
+    color: blue;
+    font-size: 25px;
+}
+
+span {
+    font-size: 15px;
+    color: blue;
+    font-style: italic;
+}
+
+.ing {
+    font-weight: bold ;
+}
+
+ul {
+    list-style: none;
+}
